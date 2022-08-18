@@ -53,6 +53,7 @@ async function getQuotes() {
         // Catch Error Here
         console.log(error);
         apiQuotes = localQuotes;
+        newQuote();
     }
 }
 
