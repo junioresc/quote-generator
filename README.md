@@ -1,5 +1,5 @@
 # Quote Generator
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/junioresc/wallapp/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/junioresc/quote-generator/blob/main/LICENSE)
 
 ## Description
 
